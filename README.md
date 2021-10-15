@@ -1,6 +1,6 @@
 # ajs_7_1
 
-[![Build status](https://ci.appveyor.com/api/projects/status/w9o2stqur28x74dh?svg=true)](https://ci.appveyor.com/project/Stanislavsus/ajs-7-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/nx7ynxkcg1x1ih2f?svg=true)](https://ci.appveyor.com/project/Stanislavsus-edu/regex-valid-username)
 
 **Легенда**
 
